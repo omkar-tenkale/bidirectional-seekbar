@@ -36,7 +36,7 @@
         then the progress becomes minValue or maxValue respectively.
         <p>
         DEFAULT - 0-->
-        <attr name="progress" format="integer" />
+        <attr name="progressValue" format="integer" />
         <!--    Set whether the percentage sign (%) should be shown with progress label. True if (%) should be shown false otherwise.
         <p>
         DEFAULT - False-->
