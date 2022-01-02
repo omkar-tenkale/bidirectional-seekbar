@@ -89,7 +89,7 @@ public class BiDirectionalSeekBar extends LinearLayout {
         mMinVal = a.getInt(R.styleable.BiDirectionalSeekBar_minValue, 0);
         mMaxVal = a.getInt(R.styleable.BiDirectionalSeekBar_maxValue, 100);
 
-        mProgress = a.getInt(R.styleable.BiDirectionalSeekBar_progress, 0);
+        mProgress = a.getInt(R.styleable.BiDirectionalSeekBar_progressValue , 0);
         percentageSign = a.getBoolean(R.styleable.BiDirectionalSeekBar_percentageSign, false);
 
 
